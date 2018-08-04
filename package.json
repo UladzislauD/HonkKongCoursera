@@ -1,0 +1,19 @@
+{
+  "name": "season1",
+  "version": "1.0.0",
+  "description": "This is a directory for course",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UladzislauD/HonkKongCoursera.git"
+  },
+  "author": "Uladzislau Dukhomenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UladzislauD/HonkKongCoursera/issues"
+  },
+  "homepage": "https://github.com/UladzislauD/HonkKongCoursera#readme"
+}
